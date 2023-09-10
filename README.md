@@ -236,7 +236,7 @@ hello@env-staging.dev
 
 ### Test `#` tags
 
-#fyi #ask-me#no ##no
+#communique #ask-me#no ##no
 
 no#no #-no #0-no
 
